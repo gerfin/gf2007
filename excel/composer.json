@@ -1,0 +1,14 @@
+{
+    "name": "gf2007/excel",
+    "description": "excel expoter or importer",
+    "type": "library",
+    "authors": [
+        {
+            "name": "gf2007",
+            "email": "gf2007@vip.qq.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.8"
+    }
+}
